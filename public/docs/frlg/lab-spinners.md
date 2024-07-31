@@ -53,15 +53,15 @@ This tells us that, while at least 1 E (i.e, RNG advanced extra) is likely, the 
 [^2]: The last tile up to Squirtle does not affect spin cycles; this is intentionally set up so that the npc's can't advance RNG while they are off screen.
    
 [^3]: The probability that a spinner does the frustrating thing (i.e, advance rng given they didn't spin) is calculated as follows:
-```	
-P(E) = P(B | spinner did not change direction) = P(B)/[P(B or ~S)] = P(B)/[P(B) + P(~S) - P(B and ~S)]
-```
-Since B and ~S are mutually exclusive events (i.e, a spinner can't advance RNG AND choose not to spin), P(B and ~S) = 0. So:
-```
-P(E) = P(B)/[P(B) + P(~S) - P(B and ~S)] = P(B)/[P(B) + P(~S)] = (1/16)/(12/16 + 1/16) = 1/13.
-```
+
+        P(E) = P(B | spinner did not change direction) = P(B)/[P(B or ~S)] = P(B)/[P(B) + P(~S) - P(B and ~S)]
+              
+      Since B and ~S are mutually exclusive events (i.e, a spinner can't advance RNG AND choose not to spin), P(B and ~S) = 0. So:
+              
+        P(E) = P(B)/[P(B) + P(~S) - P(B and ~S)] = P(B)/[P(B) + P(~S)] = (1/16)/(12/16 + 1/16) = 1/13.
+              
 
 [^4]: The calculations for the following table are as follows:
-```
-P(E happening k times in 6 cycles) = (6,k) * [P(~E)]^(6-k) * P(E)^k = (6,k) * (12/13)^(6-k) * (1/13)^k
-```
+
+        P(E happening k times in 6 cycles) = (6,k) * [P(~E)]^(6-k) * P(E)^k = (6,k) * (12/13)^(6-k) * (1/13)^k
+                
