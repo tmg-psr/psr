@@ -2,7 +2,7 @@
 
 Last updated: 31 July 2024
 
-This is where all PSR-related documentation should go. Please read the [contribution guidelines](../../REAMDE.md#general-contribution-process) and [style guide](style-guide.md)
+This is where all PSR-related documentation should go. Please read the [contribution guidelines](../../README.md#general-contribution-process) and [style guide](style-guide.md)
 before contributing documentation to this repository.
 
 ## Key directories
