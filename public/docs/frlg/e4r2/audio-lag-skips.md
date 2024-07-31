@@ -44,24 +44,24 @@ Note: * = also done in any% glitchless
   * entering the safari entrance building
 * Pewter 2 (old amber, Diglett)
   * entering old amber building
-* Cinnabar 1 (Mansion):
+* Cinnabar 1 (Mansion)
   * Bike flash before entering mansion*
   * RTB into the gym (run DR, bike the rest of the way)*. ONLY DO IF NO REPEL UP, OR YOU KNOW THE REPEL WILL WEAR OUT IN THE GYM. 
 		THIS SETUP DOES NOT WORK IF THE REPEL WEARS OUT OUTSIDE THE GYM.
-* Sevii 1 (Lostelle):
+* Sevii 1 (Lostelle)
   * Basically every time you re-enter the dock house (same applies for postgame)
   * if you're biking in Pony grass, dismount before teleporting
-* Cinnabar 2 (Cinnabar lab):
+* Cinnabar 2 (Cinnabar lab)
   * entering Cinnabar lab
-* Celadon 2 (Erika):
+* Celadon 2 (Erika)
   * Eevee house if no early Eevee
-* Kindle Road (for Mt Ember/Ruby):
+* Kindle Road (for Mt Ember/Ruby)
   * line up 1 tile left of the last girl swimmer, then take the LHS entrance into Mt ember (biking 1 right + a bunch up).
-* Icefall Cave:
+* Icefall Cave
   * There are a lot of different ones. Here's a [video example](https://youtu.be/Jntyb2hIgs8?t=10677) from pokeguy's 3:27:20.
-* Dotted Hole (Six island):
+* Dotted Hole (Six island)
   * Every tile drop (NOT including the initial drop to start the puzzle, since dotted hole music is already loaded)
   * Entering the ladder back up after Gideon takes the Sapphire
-* Cerulean Cave:
+* Cerulean Cave
   * bike flash before entering the cave.
  
