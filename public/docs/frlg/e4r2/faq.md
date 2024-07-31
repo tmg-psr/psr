@@ -7,8 +7,8 @@ Last updated: 30 July 2024
 
 ## What is Elite Four Round 2?
 This is a category extension of FireRed/LeafGreen, where we complete a few additional tasks to unlock and defeat the second, more difficult round of the Elite Four. These tasks include:
-- Recording 60 pokédex entries to acquire the national pokédex
-- Completing the Lostelle and Ruby/Sapphire sidequests on the Sevii Islands
+* Recording 60 pokédex entries to acquire the national pokédex
+* Completing the Lostelle and Ruby/Sapphire sidequests on the Sevii Islands
 
 Overall, these tasks make for roughly 90 minutes of additional gameplay compared to the current Any% Glitchless WR route.
 
@@ -33,9 +33,9 @@ In this category the minimum IV's I accept are:
 	x/21/x Speed
  
 Some notes on how to read this chart:
-	- IV's are formatted as {- nature}/{neutral nature}/{+ nature} by stat.
-	- x = N/A (i.e., I don't accept a nature where such an IV could be considered).
-	- Stats not listed (i.e., HP and Sp Def) are considered to have no minimum requirements.
+* IV's are formatted as {- nature}/{neutral nature}/{+ nature} by stat.
+* x = N/A (i.e., I don't accept a nature where such an IV could be considered).
+* Stats not listed (i.e., HP and Sp Def) are considered to have no minimum requirements.
 
 I prefer higher attack Squirtles (15+ neutral generally) for this category since Squirtle is lower level [than Any% Glitchless] for most of the segments where Squirtle's attack stat matters (i.e., Rival 3 through Rock Tunnel).
 However, there are minor workaround strats for lower attack Squirtles (these strats sometimes risk timeloss due to being at risk for being statused or missing ranges, etc.).
