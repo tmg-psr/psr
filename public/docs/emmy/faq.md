@@ -16,7 +16,7 @@ Mudkip line, then Rayquaza. Both have their nature and IV's manipulated.
 
 Mudkip: 21/23/28/30/29/29 Naughty
 
-Rayquaza: See [below](https://github.com/tmg-psr/psr/new/main/public/docs/emmy/faq.md#rayquaza)
+Rayquaza: See [below](https://github.com/tmg-psr/psr/blob/main/public/docs/emmy/faq.md#rayquaza)
 
 Mudkip's final moveset: Surf, Mud shot -> Dive, Strength, Rock Smash (yes, four HM's by the end of the game)
 Rayquaza's final moveset: Fly, Waterfall, Extremespeed -> Aerial Ace, Outrage
