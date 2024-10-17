@@ -19,7 +19,7 @@ Mudkip: 21/23/28/30/29/29 Naughty
 Rayquaza: See [below](https://github.com/tmg-psr/psr/blob/main/public/docs/emmy/faq.md#rayquaza)
 
 Mudkip's final moveset: Surf, Mud shot -> Dive, Strength, Rock Smash (yes, four HM's by the end of the game)
-Rayquaza's final moveset: Fly, Waterfall, Extremespeed -> Aerial Ace, Outrage
+Rayquaza's final moveset: Fly, Waterfall, Aerial Ace, Outrage
 
 More information on all the RNG manipulations will come later.
 
@@ -42,11 +42,12 @@ In Sapphire, all double battles are "optional", whereas in Emerald, all double b
 on the Route 104 bridge.
 
 ## RNG Manipulations
-All RNG manipulations are done with a Save and Quit manip. On a soft reset, the RNG seed is set the save value (the one associated with trainer ID 0). This allows for predictable (and thus manipulable) outcomes.
+All RNG manipulations are done with a Save and Quit manip. After a soft reset, the game polls RNG from the same starting point and with the same seed (the one associated with trainer ID 0). This allows for predictable
+(and thus manipulable) outcomes.
 
 ### Mudkip [+ No encounter to rival 1]
 Since IV's and natures are re-generated for the starter Pokemon each frame, Mudkip manip is a frame-perfect (at ~60fps) trick. The best runners will only succesfully perform this manip ~40% of the time.
-We extend this manip to avoid encounters on the walk from Littleroot to Route 103 to fight Brendan. The "no encoutner" window is much larger-- 14 frames, or about 0.25 seconds. 
+We extend this manip to avoid encounters on the walk from Littleroot to Route 103 to fight Brendan. The "no encounter" window is much more forgiving at 14 frames wide, or about 0.25 seconds. 
 
 ### Chain [Taillow into Abra]
 After Roxanne, we "chain" Taillow into Abra on Route 116. This also allows us to skip a Repel, since we can ensure no [other] encounters for all the grass tiles on the way to Rusturf Tunnel.
@@ -60,7 +61,7 @@ The Rayquazas are listed in order of RNG frame, but numbered in terms of quality
 1b. 3/30/30/25/12/13 Brave		
 1a. 13/25/12/29/28/28 Adamant
 4. 28/29/28/23/13/20 Quiet  
-3. 20/23/13/11/9/17 Adamant
+3. 20/23/13/11/9/17 Brave
 ```
 
 ## Footnotes
